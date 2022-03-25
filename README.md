@@ -1,2 +1,2 @@
 # Documentação - Projeto Elevador
-Projeto Final MS-DEV - Samsung Ocean
+Projeto Final Curso MS-Dev - Samsung Ocean
